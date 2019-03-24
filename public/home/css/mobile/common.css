@@ -1,0 +1,6 @@
+@charset "utf-8";
+body,div,li,ul,ol,dl,dd,dt,span,b,strong,p,h1,h2,h3,h4,h5,input{margin:0;padding:0;}
+ul,li,dl,dt,dd,ol{list-style:none;list-style-type:none;}
+a img,a,a:hover,a:active,a:visited{border:none;text-decoration:none; outline:none;}
+.cscreen{position:absolute;top:0;left:0;z-index:30;background:#000;opacity:0.70;filter:alpha(opacity=70);-moz-opacity:0.70;}
+body{ font-size:13px; max-width:640px; padding-bottom:55px; margin:0px auto;font-family:"Helvetica Neue",Helvetica,STHeiTi,sans-serif;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;outline:0}
